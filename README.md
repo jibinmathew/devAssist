@@ -1,4 +1,4 @@
-# 🚀 DevPilot — iOS Developer AI Assistant
+# 🚀 DevAssist — iOS Developer AI Assistant
 
 ![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg?style=flat&logo=swift)
 ![Platform](https://img.shields.io/badge/Platform-iOS%2017%2B%20%7C%20macOS%2014%2B-blue.svg?style=flat&logo=apple)
